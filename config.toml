@@ -46,7 +46,7 @@ sectionPagesMenu = "main"
     name = "Balises"
     url = "/tags/"
     title = ""
-    weight = 2
+    weight = 3
   [[menu.main]]
     identifier = "categories"
     pre = ""
@@ -54,7 +54,7 @@ sectionPagesMenu = "main"
     name = "Catégories"
     url = "/categories/"
     title = ""
-    weight = 3
+    weight = 2
   [[menu.main]]
     identifier = "a-propos"
     name = "À propos"
