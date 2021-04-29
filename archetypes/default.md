@@ -16,6 +16,8 @@ authorComment: ""
 tags: []
 categories: []
 
+rssFullText: true
+
 hiddenFromHomePage: false
 hiddenFromSearch: false
 
