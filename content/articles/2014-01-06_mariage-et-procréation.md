@@ -1,7 +1,8 @@
 ---
 title: "Interdisons le mariage aux couples stériles !"
 Date: 2014-01-06T16:00:00Z
-Category: Société
+categories: 
+- "Société"
 Tags: 
 - "Manif pour tous"
 - "mariage pour tous"

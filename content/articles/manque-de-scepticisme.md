@@ -1,7 +1,8 @@
 ---
 title: "Le manque de scepticisme oppresse et tue"
 Date: 2014-02-08T17:00:00Z
-Category: Scepticisme
+categories: 
+- "Scepticisme"
 Tags: 
 - "Théorie du complot"
 - "Religion"

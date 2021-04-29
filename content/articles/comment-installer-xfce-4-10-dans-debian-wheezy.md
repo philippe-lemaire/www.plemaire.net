@@ -1,7 +1,8 @@
 ---
 title: "Comment installer Xfce 4.10 dans Debian Wheezy"
 Date: 2013-06-12T00:20:00Z
-Category: Logiciels libres
+categories: 
+- "Logiciels libres"
 Tags: 
 - "Debian"
 - "Xfce"

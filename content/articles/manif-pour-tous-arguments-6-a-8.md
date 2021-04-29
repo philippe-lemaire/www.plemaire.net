@@ -1,7 +1,8 @@
 ---
 title: "Manif pour tous, arguments 6 à 8"
 Date: 2013-05-12T00:20:00Z
-Category: Société
+categories: 
+- "Société"
 Tags: 
 - "Manif pour tous"
 - "Mariage pour tous"

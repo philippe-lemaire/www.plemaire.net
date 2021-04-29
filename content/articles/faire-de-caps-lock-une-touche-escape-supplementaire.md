@@ -1,7 +1,8 @@
 ---
 title: "Faire de Caps Lock une touche Escape supplémentaire"
 Date: 2013-12-25T15:51:00Z
-Category: Logiciels libres
+categories: 
+- "Logiciels libres"
 Tags: 
 - "Linux"
 Slug: faire-de-caps-lock-une-touche-escape-supplementaire

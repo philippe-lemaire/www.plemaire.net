@@ -1,7 +1,8 @@
 ---
 title: "Le kit de détection des foutaises"
 Date: 2014-02-10T22:00:00Z 
-Category: Scepticisme 
+categories: 
+- "Scepticisme "
 Tags: 
 - "Théorie du complot"
 - "Théorie du genre "

@@ -1,7 +1,8 @@
 ---
 title: "Comment désactiver les actions sur les coins du pavé tactile sous Linux"
 Date: 2019-04-12T10:00:00Z
-Category: Logiciels libres
+categories: 
+- "Logiciels libres"
 Tags: 
 - "Linux"
 - "Debian"

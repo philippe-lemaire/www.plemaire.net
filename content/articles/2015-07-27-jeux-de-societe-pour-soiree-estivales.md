@@ -1,7 +1,8 @@
 ---
 title: "5 jeux de société pour vos soirées estivales"
 Date: 2015-07-27T18:00:00Z
-Category: Gaming
+categories: 
+- "Gaming"
 Tags: 
 - "jeux de société"
 - "jeux de plateaux"

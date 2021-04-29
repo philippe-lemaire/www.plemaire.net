@@ -1,7 +1,8 @@
 ---
 title: "La Manif pour Tous et la loi de Poe"
 Date: 2014-01-26T15:20:00Z
-Category: Société
+categories: 
+- "Société"
 Tags: 
 - "Théorie du genre"
 - "Manif pour tous"

@@ -1,7 +1,8 @@
 ---
 title: "KDE SC 4.10 est sortie !"
 Date: 2013-02-09T00:20:00Z
-Category: Logiciels libres
+categories: 
+- "Logiciels libres"
 Tags: 
 - "KDE"
 - "Linux"

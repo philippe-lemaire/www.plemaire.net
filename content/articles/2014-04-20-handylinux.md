@@ -1,7 +1,8 @@
 ---
 title: "HandyLinux, Debian sans se prendre la tête"
 Date: 2014-04-20T16:00:00Z
-Category: Logiciels libres
+categories: 
+- "Logiciels libres"
 Tags: 
 - "Linux"
 - "Debian"

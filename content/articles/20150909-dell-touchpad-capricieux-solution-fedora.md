@@ -1,7 +1,8 @@
 ---
 title: "Dell Inspiron 15 3000 faire fonctionner le touchpad sous Debian, Ubuntu et Fedora"
 Date: 2015-09-09T17:30:00Z
-Category: Logiciels libres
+categories: 
+- "Logiciels libres"
 Tags: 
 - "Dell"
 - "Ubuntu"

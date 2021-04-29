@@ -1,7 +1,8 @@
 ---
 title: "Migration du site sous Pelican"
 Date: 2014-01-02T10:00:00Z
-Category: Internet
+categories: 
+- "Internet"
 Tags: 
 - "Logiciel libre"
 - "CMS"
@@ -25,7 +26,7 @@ Une fois pelican et ses dépendances installées sur mon PC, il m’a suffit de 
     ---
 title: "Titre de notre article"
     Date: 2014-01-02T19:00:00Z
-    Category: Categorie de notre article
+    categories: Categorie de notre article
     Tags: tags, separes, par, une, virgule
     Slug: url-de-la-page-apres-la-racine
     Summary: Resume pour la page qui liste les articles

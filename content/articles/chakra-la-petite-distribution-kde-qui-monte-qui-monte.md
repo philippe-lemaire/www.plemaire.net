@@ -1,7 +1,8 @@
 ---
 title: "Chakra la petite distribution KDE qui monte qui monte"
 Date: 2013-06-29T00:20:00Z
-Category: Logiciels libres
+categories: 
+- "Logiciels libres"
 Tags: 
 - "Linux"
 - "KDE"

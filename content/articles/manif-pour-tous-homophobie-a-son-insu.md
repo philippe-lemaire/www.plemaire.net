@@ -1,7 +1,8 @@
 ---
 title: "La Manif pour tous, homophobie non assumée"
 Date: 2014-01-12T22:20:00Z
-Category: Société
+categories: 
+- "Société"
 Tags: 
 - "Manif pour tous"
 - "Mariage pour tous"

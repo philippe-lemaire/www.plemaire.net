@@ -1,7 +1,8 @@
 ---
 title: "J’ai joué sous Linux"
 Date: 2014-09-20T20:00:00Z
-Category: Logiciels libres
+categories: 
+- "Logiciels libres"
 Tags: 
 - "linux"
 - "ubuntu"

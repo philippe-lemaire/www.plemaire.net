@@ -1,7 +1,8 @@
 ---
 title: "Du bruit et du fond, les arguments des “Manif’ pour tous” - première partie"
 Date: 2013-04-16T00:20:00Z
-Category: Société
+categories: 
+- "Société"
 Tags: 
 - "Manif pour tous"
 - "mariage pour tous"

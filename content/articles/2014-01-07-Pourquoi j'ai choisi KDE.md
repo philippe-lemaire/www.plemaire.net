@@ -1,7 +1,8 @@
 ---
 title: "Pourquoi j’ai choisi KDE"
 Date: 2014-01-07T10:30:00Z
-Category: Logiciels libres
+categories: 
+- "Logiciels libres"
 Tags: 
 - "KDE"
 - "Linux"

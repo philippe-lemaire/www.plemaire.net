@@ -1,7 +1,8 @@
 ---
 title: "Comment faire de Xfce un environnement personnel et productif"
 Date: 2017-01-25T12:00:00Z
-Category: Logiciels libres
+categories: 
+- "Logiciels libres"
 Tags: 
 - "Linux"
 - "fedora"

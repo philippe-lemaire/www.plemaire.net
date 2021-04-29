@@ -1,7 +1,8 @@
 ---
 title: "IVG et SEO, comment contribuer au référencement des bonnes ressources"
 Date: 2014-01-23T10:20:00Z
-Category: Société
+categories: 
+- "Société"
 Tags: 
 - "Avortement"
 - "SEO"

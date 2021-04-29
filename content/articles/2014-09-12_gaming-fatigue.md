@@ -1,7 +1,8 @@
 ---
 title: "Gaming Fatigue"
 Date: 2014-09-12T18:33:00Z
-Category: Gaming
+categories: 
+- "Gaming"
 Tags: 
 - "Nintendo"
 Slug: gaming-fatigue

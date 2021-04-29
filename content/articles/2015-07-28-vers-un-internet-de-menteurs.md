@@ -1,7 +1,8 @@
 ---
 title: "Les DNS menteurs"
 Date: 2015-07-28T17:00:00Z
-Category: Internet
+categories: 
+- "Internet"
 Tags: 
 - "Censure"
 - "DNS"

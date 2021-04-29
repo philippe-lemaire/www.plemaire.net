@@ -1,7 +1,8 @@
 ﻿---
 title: "Commentaires et tweets, exutoires de l’homophobie moins ordinaire"
 Date: 2015-07-13T11:00:00Z
-Category: Société
+categories: 
+- "Société"
 Tags: 
 - "Mariage pour tous"
 - "Homophobie"

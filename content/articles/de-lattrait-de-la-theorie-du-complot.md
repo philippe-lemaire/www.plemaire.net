@@ -1,7 +1,8 @@
 ---
 title: "De l’attrait de la théorie du complot"
 Date: 2013-02-26T00:20:00Z
-Category: Scepticisme
+categories: 
+- "Scepticisme"
 Tags: 
 - "11 septembre"
 - "théorie du complot"

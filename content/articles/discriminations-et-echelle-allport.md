@@ -1,7 +1,8 @@
 ---
 title: "Discriminations en France et échelle d’Allport"
 Date: 2014-01-16T20:38:00Z
-Category: Société
+categories: 
+- "Société"
 Tags: 
 - "Discriminations"
 - "Racisme"

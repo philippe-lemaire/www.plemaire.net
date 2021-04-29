@@ -1,7 +1,8 @@
 ---
 title: "Les bons et les mauvais arguments, l’exemple Christine Boutin"
 Date: 2013-06-02T00:20:00Z
-Category: Société
+categories: 
+- "Société"
 Tags: 
 - "mariage pour tous"
 - "homophobie"

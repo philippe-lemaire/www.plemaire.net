@@ -1,7 +1,8 @@
 ---
 title: "Arguments de la Manif pour tous, dernière partie"
 Date: 2013-05-13T00:20:00Z
-Category: Société
+categories: 
+- "Société"
 Tags: 
 - "Manif pour tous"
 - "mariage pour tous"

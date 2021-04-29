@@ -1,7 +1,8 @@
 ---
 title: "La Manif pour Tous"
 Date: 2013-01-13T21:23:00Z
-Category: Société
+categories: 
+- "Société"
 Tags: 
 - "Manif pour tous"
 - "mariage pour tous"

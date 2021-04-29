@@ -1,7 +1,8 @@
 ---
 title: "Le scroll naturel à la Mac OS sous Linux"
 Date: 2013-11-09T00:20:00Z
-Category: Logiciels libres
+categories: 
+- "Logiciels libres"
 Tags: 
 - "Linux"
 Slug: le-scroll-naturel-la-mac-os-sous-linux

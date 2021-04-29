@@ -1,7 +1,8 @@
 ---
 title: "Homéopathie et biais cognitifs"
 Date: 2015-07-22T12:00:00Z
-Category: Scepticisme
+categories: 
+- "Scepticisme"
 Tags: 
 - "Homéopathie"
 Slug: homeopathie-et-biais-cognitifs

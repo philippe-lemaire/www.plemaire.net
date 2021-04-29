@@ -1,7 +1,8 @@
 ---
 title: "Novius OS, le CMS qui partage"
 Date: 2013-12-17T00:20:00Z
-Category: Internet
+categories: 
+- "Internet"
 Tags: 
 - "CMS"
 - "Logiciel libre"

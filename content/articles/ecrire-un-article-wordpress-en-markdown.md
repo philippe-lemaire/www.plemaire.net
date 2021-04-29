@@ -1,7 +1,8 @@
 ---
 title: "Écrire un article WordPress en Markdown"
 Date: 2013-12-26T01:38:00Z
-Category: Internet
+categories: 
+- "Internet"
 Tags: 
 - "Markdown"
 Slug: ecrire-un-article-wordpress-en-markdown

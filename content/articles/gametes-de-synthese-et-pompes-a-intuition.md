@@ -1,7 +1,8 @@
 ---
 title: "Gamètes de synthèse et pompes à intuition"
 Date: 2013-07-25T00:20:00Z
-Category: Société
+categories: 
+- "Société"
 Tags: 
 - "Philosophie"
 Slug: gametes-de-synthese-et-pompes-a-intuition

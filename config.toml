@@ -55,6 +55,10 @@ sectionPagesMenu = "main"
     url = "/categories/"
     title = ""
     weight = 3
+  [[menu.main]]
+    identifier = "a-propos"
+    name = "À propos"
+    url = "/a-propos/"
 
 # Markup related configuration in Hugo
 [markup]

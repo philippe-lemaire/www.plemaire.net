@@ -1,7 +1,8 @@
 ---
 title: "Installer Firefox sur Debian Wheezy"
 Date: 2013-09-09T09:20:00Z
-Category: Logiciels libres
+categories: 
+- "Logiciels libres"
 Tags: 
 - "Firefox"
 - "Debian"

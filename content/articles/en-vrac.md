@@ -1,7 +1,8 @@
 ---
 title: "En vrac"
 Date: 2013-02-09T00:20:00Z
-Category: En vrac
+categories: 
+- "En vrac"
 Tags: 
 - "Web Comics"
 Slug: en-vrac

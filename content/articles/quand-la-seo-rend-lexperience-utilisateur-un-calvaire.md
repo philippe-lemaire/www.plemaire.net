@@ -1,7 +1,8 @@
 ---
 title: "Quand la SEO rend l’expérience utilisateur un calvaire"
 Date: 2013-01-15T09:20:00Z
-Category: Internet
+categories: 
+- "Internet"
 Tags: 
 - "SEO"
 Slug: quand-la-seo-rend-lexperience-utilisateur-un-calvaire

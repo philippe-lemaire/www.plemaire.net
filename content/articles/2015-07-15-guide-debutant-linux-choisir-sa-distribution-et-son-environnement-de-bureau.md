@@ -1,7 +1,8 @@
 ﻿---
 title: "Le guide du débutant sous Linux : choisir sa distribution et son environnement de bureau"
 Date: 2015-07-15T18:00:00Z
-Category: Logiciels libres
+categories: 
+- "Logiciels libres"
 Tags: 
 - "Linux"
 Slug: le-guide-du-debutant-sous-linux-choisir-sa-distribution-et-son-environnement-de-bureau

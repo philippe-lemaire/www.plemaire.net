@@ -1,7 +1,8 @@
 ---
 title: "Les 5 erreurs de raisonnement les plus communes"
 Date: 2014-02-18T20:00:00Z
-Category: Scepticisme
+categories: 
+- "Scepticisme"
 Tags: 
 - "Homéopathie"
 - "Vaccination"

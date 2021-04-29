@@ -1,7 +1,8 @@
 ---
 title: "Le guide de migration de Windows XP vers Linux"
 Date: 2014-02-23T09:00:00Z
-Category: Logiciels Libres
+categories: 
+- "Logiciels Libres"
 Tags: 
 - "Linux"
 - "Debian"

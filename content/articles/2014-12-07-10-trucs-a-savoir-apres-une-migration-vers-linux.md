@@ -1,7 +1,8 @@
 ---
 title: "10 trucs à savoir après une migration vers Linux"
 Date: 2014-12-07T09:00:00Z
-Category: Logiciels libres
+categories: 
+- "Logiciels libres"
 Tags: 
 - "Linux"
 Slug: 10-trucs-a-savoir-apres-une-migration-vers-linux

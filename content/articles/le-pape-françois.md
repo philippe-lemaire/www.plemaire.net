@@ -1,7 +1,8 @@
 ---
 title: "Le Pape François ou la fausse ouverture"
 Date: 2014-01-15T08:00:00Z
-Category: Société
+categories: 
+- "Société"
 Tags: 
 - "Avortement"
 - "homophobie"

@@ -1,7 +1,8 @@
 ---
 title: "Installer Firefox sur Debian Jessie"
 Date: 2015-07-26T16:20:00Z
-Category: Logiciels libres
+categories: 
+- "Logiciels libres"
 Tags: 
 - "Firefox"
 - "Debian"

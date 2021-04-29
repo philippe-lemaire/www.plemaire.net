@@ -1,7 +1,8 @@
 ---
 title: "En vrac janvier 2014"
 Date: 2014-01-10T08:00:00Z
-Category: En vrac
+categories: 
+- "En vrac"
 Tags: 
 - "Féminisme"
 - "Internet"
