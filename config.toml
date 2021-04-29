@@ -1,0 +1,67 @@
+baseURL = "https://www.plemaire.net/"
+defaultContentLanguage = "fr"
+languageCode = "fr-fr"
+title = "A boy and his blog"
+author = "Philippe Lemaire"
+description = "Tech, théorie du genre, et gauchisme contrarié…"
+
+theme = "uBlogger"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "fr"
+
+Paginate = 10
+
+enableRobotsTXT = true
+#
+sectionPagesMenu = "main"
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+
+[params]
+  favicon = "/images/favicon.png"
+  site_logo = ""
+  version = "2.0.X"
+
+[menu]
+  [[menu.main]]
+    identifier = "articles"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Articles"
+    url = "/articles/"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "Balises"
+    url = "/tags/"
+    title = ""
+    weight = 2
+  [[menu.main]]
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "Catégories"
+    url = "/categories/"
+    title = ""
+    weight = 3
+
+# Markup related configuration in Hugo
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration
+    noClasses = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
