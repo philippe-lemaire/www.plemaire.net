@@ -26,6 +26,7 @@ sectionPagesMenu = "main"
   favicon = "/images/favicon.png"
   site_logo = ""
   version = "2.0.X"
+  dateFormat = "02-01-2006"
 
 [menu]
   [[menu.main]]
@@ -46,7 +47,7 @@ sectionPagesMenu = "main"
     name = "Balises"
     url = "/tags/"
     title = ""
-    weight = 3
+    weight = 2
   [[menu.main]]
     identifier = "categories"
     pre = ""
@@ -54,7 +55,7 @@ sectionPagesMenu = "main"
     name = "Catégories"
     url = "/categories/"
     title = ""
-    weight = 2
+    weight = 3
   [[menu.main]]
     identifier = "a-propos"
     name = "À propos"
