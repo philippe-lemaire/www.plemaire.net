@@ -5,13 +5,10 @@ date: {{ .Date }}
 lastmod: {{ .Date }}
 draft: true
 author: "Philippe Lemaire"
-description: ""
+summary: ""
 
 page:
     theme: "wide"
-
-upd: ""
-authorComment: ""
 
 tags: []
 categories: []
@@ -24,7 +21,7 @@ hiddenFromSearch: false
 resources:
 - name: "featured-image"
   src: "featured-image.jpg"
-- name: featured-image-preview
+- name: "featured-image-preview"
   src: featured-image-preview.jpg
 
 featuredImage: ""
@@ -35,8 +32,5 @@ toc:
   enable: true
 math:
   enable: false
-
-license: ""
 ---
 
-<!--more-->
