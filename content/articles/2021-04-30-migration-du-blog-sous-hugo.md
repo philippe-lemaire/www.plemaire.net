@@ -8,7 +8,7 @@ author: "Philippe Lemaire"
 summary: "Où comment se relancer dans le blogging grâce au plaisir de jouer avec un nouvel outil… "
 
 page:
-    theme: "wide"
+    theme: "fixed"
 
 upd: ""
 authorComment: ""
@@ -23,6 +23,8 @@ hiddenFromSearch: false
 
 featuredImage: "/img/hugo-featured.png"
 
+toc:
+  enable: true
 ---
 
 ## Introduction
