@@ -12,7 +12,7 @@ Summary: Ou comment j’ai cheminé du fanboy GNOME à KDE en passant par les ge
 ---
 
 
-#### Pourquoi j’ai initialement choisi GNOME 2
+## Pourquoi j’ai initialement choisi GNOME 2
 
 [Ubuntu](http://www.ubuntu.com) entre 2004 et 2010 utilisait GNOME 2. J’ai découvert Linux avec Ubuntu 5.04, et j’ai utilisé GNOME 2 jusqu’en 2011.
 
@@ -27,7 +27,7 @@ GNOME 2 manquait des fonctionnalités modernes 3D comme l’exposition des fenê
 
 La réponse de GNOME fut de repenser radicalement son expérience utilisateur et de faire un grand bond en avant avec GNOME 3.
 
-#### Pourquoi je n’utilise pas GNOME 3
+## Pourquoi je n’utilise pas GNOME 3
 
 GNOME 3 offre un workflow radicalement différent.
 L’objectif affiché est de vous laisser vous concentrer sur une tâche en cours, et de minimiser la pollution visuelle des éventuelles autres fenêtres ouvertes.
@@ -59,21 +59,21 @@ Le mode Alt-Tab présente de grosses icônes d’application et de minuscules fe
 Le mode présentation des fenêtres est joli mais ne présente pas d’icône d’application.
 Si vous avez beaucoup de fenêtres présentées, vous pouvez perdre du temps à hésiter pour savoir quelle fenêtre vous voulez sélectionner.
 
-#### La grande errance
+## La grande errance
 Ce fut pour moi une période de grande instabilité, j’ai essayé un grand nombre d’alternatives.
 
-##### MATE
+### MATE
 [MATE](http://mate-desktop.org) est un fork de GNOME 2, dont l’objectif est de maintenir le look and feel de GNOME 2. Il m’a été bien utile pour les membres de ma famille que j’avais convertis à Linux avec [Ubuntu](http://www.ubuntu.com) + Gnome 2.  
 Il souffre des mêmes limitations que GNOME 2, et dans les premières versions que j’ai essayées, d’un manque manifeste de développeurs. 
 
 En remplaçant massivement le terme "gnome" par "mate" dans leur code, ils avaient ainsi cassé certaines fonctionnalités comme la gestion des touches multimédia du clavier pour mettre en pause sa musique. 
 Mauvais signe.
 
-##### Xfce 
+### Xfce 
 [Xfce](http://www.xfce.org) est intéressant pour une machine un peu ancienne. 
 Il ressemble beaucoup à GNOME 2, en légèrement plus léger.
 Mais il souffre des mêmes problèmes, il lui manque certaines fonctionnalités modernes comme un mode exposé pour présenter les fenêtres ouvertes.
-##### Xmonad
+### Xmonad
 [Xmonad](http://xmonad.org) est un gestionnaire de fenêtres en mosaïques (tiling window manager dans la langue de Shakespeare).
 
 ![Xmonad avec plusieurs écrans](/img/xmonad.jpg)
@@ -84,7 +84,7 @@ Vous ne pouvez pas les réduire, il faut jouer avec ses espaces de travail pour 
 Ça encourage à utiliser des applications à l’interface gérable au clavier, voire des applications qui vivent entièrement dans un terminal.
 Et il y en a, pour tout : [email](http://www.mutt.org/), [multimedia](http://www.musicpd.org/clients/ncmpc/), [lecture de flux RSS](http://www.newsbeuter.org/)
 
-##### i3
+### i3
 [i3](http://i3wm.org) est similaire à Xmonad. C’est aussi un gestionnaire en mosaïque.
 
 ![i3 avec vim, mplayer et git](/img/i3.png)
@@ -100,11 +100,11 @@ C’est un modèle intéressant, mais qui pour mon usage a plusieurs limitations
 * Il faut dans une certaine mesure se rappeler où on a mis ses fenêtres. Catégoriser ses espaces de travail (web, terminal, graphisme) peut aider.
 * C’est très difficile à utiliser dès que vous avez une main prise (téléphone, tasse de café). Ça a l’air bête mais dès qu’on a pas les deux mains sur le clavier on ne peut pratiquement plus rien faire.
 
-#### La révélation : KDE
+## La révélation : KDE
 J’ai longtemps essayé [KDE](http://fr.kde.org), sans l’adopter.
 Les dernières versions ont fait d’énormes progrès en terme de performance, ce qui m’a permis de passer à KDE comme environnement de bureau.
 
-##### Idées reçues sur KDE
+### Idées reçues sur KDE
 KDE souffre souvent d’idées reçues. Certaines de ces idées ont une base réelle, mais obsolète.
 
 > C’est lent, c’est moche, c’est copié sur windows 95, les applications ont des noms débiles qui commencent par K.
@@ -127,7 +127,7 @@ Exemples :
 * [Gwenview](http://www.kde.org/applications/graphics/gwenview/)
 * [Okular](http://www.kde.org/applications/graphics/okular)
 
-##### Mon expérience avec KDE
+### Mon expérience avec KDE
 KDE est extrèmement personnalisable.
 Peut-être trop, ça donne à son interface de réglages du système un nombre astronomique d’entrées.
 Mais je préfère ça à l’excès inverse de GNOME 3.
@@ -145,7 +145,8 @@ Je façonne le workflow et l’interface que je veux :
 * Les dialogues de fichier. Un détail qui paraît bête, mais qui change la vie. Les dialogues de fichier de GTK sont atroces. Quand vous voulez y choisir un fichier image, sa vignette est minuscule. Quand vous voulez enregistrer un fichier sur votre disque, l’interface pour créer un nouveau dossier est incompréhensible. Les dialogues de fichier de KDE règlent tous ces problèmes.  
 ![dialogue de fichier KDE](/img/kde-file-dialog.png)
 
-##### Distributions recommandées
+### Distributions recommandées
+
 Attention, ici je ne vais parler que des distributions que j’ai essayées plus d’une semaine.  
 Je ne prétends pas faire un benchmark complet des distributions qui ont une version KDE.
 Je ne mentionne pas [Fedora](http://www.fedora-fr.org) par exemple non pas parce que je ne l’apprécie pas, mais simplement parce que je ne l’ai pas essayée.
@@ -157,7 +158,7 @@ Je ne mentionne pas [Fedora](http://www.fedora-fr.org) par exemple non pas parce
 4. [OpenSuse](http://fr.opensuse.org/Bienvenue_sur_openSUSE.org) a la réputation d’être la meilleure implémentation de KDE. Je ne reste jamais longtemps dessus, non par manque de qualité, mais parce que j’avoue avoir du mal à comprendre les bonnes pratiques avec leurs différents dépôts de logiciels. Je me sens plus à l’aise sous un système Debian ou Arch.
 4. [Debian](http://www.debian.org/CD/) est un excellent choix si vous voulez installer un système et ne pas vous en inquiéter pendant plus de deux ans. La version actuelle de KDE dans Debian Stable est la 4.8.4. Bien, mais un peu frustrant pour qui suit les annonces de nouvelles fonctionnalités dans KDE.
 
-##### Conclusion
+## Conclusion
 
 Le bureau Linux est une affaire de choix, et de cas d’usage.  
 Je n’ai rien contre GNOME ou Xfce, ce sont des environnements fantastiques s’ils correspondent à votre utilisation.
