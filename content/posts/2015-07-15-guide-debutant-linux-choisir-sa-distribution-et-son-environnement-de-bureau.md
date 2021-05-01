@@ -9,14 +9,14 @@ Slug: le-guide-du-debutant-sous-linux-choisir-sa-distribution-et-son-environneme
 Summary: Un des premiers casse-tête qui attend toute personne qui découvre l’éco-système GNU/Linux pour la première fois est le vaste choix de distributions et d’environnements de bureau. Choisir une distribution qui vous conviendra dépend de multiples critères, dont l’environnement de bureau proposé, aussi les deux sujets sont liés.
 ---
 
-#### Introduction
+## Introduction
 
 Dans mon précédent [guide sur la migration de Windows XP à Linux](http://www.plemaire.net/le-guide-de-migration-de-windows-xp-vers-Linux), j’ai pris le parti de recommander Debian avec Xfce aux débutants. 
 Même s’il est contraire à la sagesse populaire qui veut qu’Ubuntu soit la distribution de référence pour les débutants, ce choix de Debian peut se justifier, mais ce n’était pas l’objet du guide.
 
 Étudions plus en détail quelques distributions adaptées aux débutants sous Linux, leurs forces, et leurs faiblesses.
 
-#### Ubuntu et son environnement Unity
+## Ubuntu et son environnement Unity
 ![Ubuntu et son environnement Unity](/img/ubuntu-unity.png)
 **Ubuntu et son environnement Unity**
 
@@ -33,7 +33,7 @@ Ses faiblesses :
 - Son environnement Unity peut être gourmand en ressources, pas idéal sur une machine un peu ancienne.
 - Son cycle de développement rapide, une version tous les 6 mois, peut être pénible à suivre, car trop fréquent et donnant lieu à des machines instables dans les premières semaines d’une nouvelle version. Préférez les versions dites LTS (Long Term Support) qui bénéficient d’un suivi (màj de sécurité) pendant 5 ans.
 
-#### Xubuntu
+## Xubuntu
 ![Xubuntu et son bureau Xfce](/img/xubuntu-xfce.png)
 **Xubuntu et son bureau Xfce**
 
@@ -51,7 +51,7 @@ Ses faiblesses :
 - Le cycle de vie rapide, comme pour Ubuntu.
 - D’autres distributions embarquant Xfce semblent avoir de meilleures performance sur des machines anciennes.
 
-#### Linux Mint et ses environnements Cinnamon et MATE
+## Linux Mint et ses environnements Cinnamon et MATE
 ![Linux Mint avec MATE Desktop](/img/mint-mate.png)
 **Linux Mint avec MATE Desktop**
 
@@ -78,7 +78,7 @@ Faiblesses :
 - Esthétique douteuse, mais bon les goûts et les couleurs. Et puis ça se change.
 - Dérivée d’Ubuntu, elle-même dérivée de Debian. Les deux couches en plus peuvent être source de problèmes.
 
-#### Debian, le système d’exploitation universel
+## Debian, le système d’exploitation universel
 ![Debian et le bureau Cinnamon](/img/debian-cinnamon.png)
 **Debian et le bureau Cinnamon**
 
@@ -109,7 +109,7 @@ Ses faiblesses :
 - Le processus d’installation reste simple, mais il offre plus de choix que celui d’Ubuntu et autre, et peut rebuter le grand débutant.
 - Pas d’installation automatisée des pilotes propriétaires. Il faut savoir qu’ils existent, et installer le paquet qu’il faut soi-même. 
 
-#### HandyLinux
+## HandyLinux
 [HandyLinux](http://handylinux.org/) est une distribution française basée sur Debian, et qui cible spécifiquement les débutants.
 Ici le choix de l’environnement de bureau est volontairement limité à Xfce, configuré avec un choix de logiciles pré-installé couvrant les besoins des utilisateurs classiques : VLC pour la vidéo, OpenOffice pour le traitement de texte et les tableaux.
 Le truc en plus de HandyLinux, c’est son menu spécifique, qui permet de lancer facilement les applications et certaines pages web considérées comme utiles par les développeurs de cette distribution.
@@ -128,7 +128,7 @@ Ses faiblesses :
 
 - Debian sous le capot, des versions de logiciels du coup parfois anciennes.
 
-#### Conclusion
+## Conclusion
 
 Entre ces 5, je dirais que HandyLinux se démarque. Les performances et la simplicité d’Xfce, l’orientation utilisateur débutant, la stabilité de Debian, la documentation de qualité et la communauté frenchie et sympa en font un excellent choix.  
 Si vous souhaitez avoir une base logicielle plus récente, Xubuntu est un très bon choix, et bénéficie du fait qu’Ubuntu est très largement distribuée, ce qui rend l’installation de logiciels propriétaires ciblant Ubuntu plus simple (jeux vidéos, Skype, Google Hangout, par exemple).  

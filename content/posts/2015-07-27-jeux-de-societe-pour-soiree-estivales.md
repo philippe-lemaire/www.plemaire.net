@@ -14,7 +14,7 @@ Summary: C’est l’été, les soirées sont longues et vous avez autour de vou
 C’est l’été, les soirées sont longues et vous avez autour de vous de 2 à 12 personnes prêtes à passer un moment ludique ? Voici mes 5 jeux préférés pour tout public.
 
 
-#### Les Loups-Garous de Thiercelieux
+## Les Loups-Garous de Thiercelieux
 
 ![Les Loups-Garous de Thiercelieux](/img/jeux/loupsgarous.jpg)
 
@@ -25,7 +25,7 @@ C’est un excellent jeu d’ambiance et il révèlera mieux que d’autres qui 
 Il faut avoir un groupe de joueurs assez large, minimun 9 personnes dont un maître de jeu, et un lieu calme pour maitenir la concentration des joueurs. Perso j’adore ajouter un fond sonore léger type musique de Jeremy Soule (Morrowind, Skyrim, Guild Wars).
 
 
-#### Time’s Up
+## Time’s Up
 
 ![Time’s Up](/img/jeux/times-up.jpg)
 
@@ -40,7 +40,7 @@ Chaque équipe se voit distribuer des cartes sur lesquelles figurent des céléb
 Excellent pour un groupe de 4 à 8 personnes. Peut se révéler un peu frustrant si les joueurs ont des niveaux de culture générale très inégaux.
 
 
-#### Perudo
+## Perudo
 
 ![Perudo](/img/jeux/perudo.jpg)
 
@@ -54,7 +54,7 @@ Le perdant se trouve privé d’un dé, et on repart pour un tour, jusqu’à ce
 Très sympa, peut se jouer sans avoir à trop parler, parfait pour les groupes internationaux.
 
 
-#### Love Letter
+## Love Letter
 
 ![Love Letter](/img/jeux/loveletter.jpg)
 
@@ -68,7 +68,7 @@ Il y a 16 cartes en tout, à tout moment les joueurs en lice en ont une en main,
 Rapide et fun.
 
 
-#### Shabadabada
+## Shabadabada
 
 ![Shabadabada](/img/jeux/shabadabada.jpg)
 
