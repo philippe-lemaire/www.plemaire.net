@@ -67,9 +67,9 @@ Je n’ai pas non plus installé d’outil de tracking des visites comme Google 
 
 En local, dans le répertoire principal du site :
 
-`hugo new articles/mon-nouvel-article.md`
+`hugo new posts/mon-nouvel-article.md`
 
-Le fichier est créé automatiquement dans le répertoire `content/articles/`.
+Le fichier est créé automatiquement dans le répertoire `content/posts/`.
 
 On le crée ainsi plutôt que directement à la main parce que hugo va se baser sur le fichier `archetypes/default.md` pour créer le fichier avec le bon contenu d’entête avec le titre, la date, l’auteur. Certains champs sont automatiquement remplis selon la date, l’heure, le nom du fichier, d’autres sont à compléter.
 
