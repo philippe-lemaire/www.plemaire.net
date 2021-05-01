@@ -9,7 +9,7 @@ Slug: homeopathie-et-biais-cognitifs
 Summary: Les personnes qui défendent l’homéoapthie bec et ongle, malgré l’absurdité de la pratique, sont des exemples intéressants de biais cognitifs.
 ---
 
-#### Homéopathie, Kézako?
+## Homéopathie, Kézako?
 
 L’homéopathie est une pratique médicale alternative qui tend à prescrire de petites pastilles de sucre aux patients.
 Ces pastilles contiennent de petites doses de produits actifs et sont sans effet secondaire.
@@ -30,7 +30,7 @@ Voilà pour l’historique et la théorie. Si les homéopathes en parlent peu, c
 Tout ceci est absurde au plus haut point. C’est de la proto-médecine datant d’avant la révolution scientifique amenée par la théorie des germes, et ça aurait dû disparaître durant le XIXè siècle comme beaucoup d’autres pratiques de l’époque.
 
 
-#### Que disent les utilisateurs ?
+## Que disent les utilisateurs ?
 
 Face à l’incrédulité des scientifiques, et [aux nombreuses études contrôlées rigoureusement qui montrent qu’il n’y a aucune indication thérapeutique où l’homéopathie fait mieux qu’un placebo](https://fr.wikipedia.org/wiki/Hom%C3%A9opathie#M.C3.A9ta-analyses) (faire **mieux** qu’un placebo est justement ce qu’on attend d’un traitement, faire aussi bien prouve juste que le produit ne fait rien par lui-même), ce que disent les utilisateurs d’homéopathie est révélateur de nombreux biais cognitifs qui peuvent obscurcir notre jugement, dans **ces circonstances comme dans d’autres**.
 
@@ -58,7 +58,7 @@ Ah, là on a un de mes arguments préférés : “Ça marche aussi sur les anima
 
 J’ai déjà entendu plein de variantes de cette histoire de conversion du méchant sceptique, mais en général dans un contexte plus religieux.
 
-#### Biais
+## Biais
 
 Le problème de ces expériences personnelles c’est que nous sommes de piètres observateurs de nous mêmes. Nous avons tendance à vouloir confirmer nos opinions, et à inconsciemment ignorer ou minimiser les faits qui vont à l’encontre de nos opinions, et au contraire à retenir ou sur-interpréter les éléments qui viennent confirmer ce que nous croyons vrai. On appelle ce phénomène le [biais de la confirmation](https://fr.wikipedia.org/wiki/Biais_de_confirmation).
 
@@ -70,7 +70,7 @@ Quand au placebo qui ne pourrait marcher sur les animaux, c’est faire beaucoup
 
 De plus, c’est mal comprendre un des aspects de l’effet placebo, qui est lié au fait que c’est le patient ou son observateur dans le cas des animaux qui va déclarer que l’animal va mieux ou moins bien suite au traitement. Par le biais de la confirmation, celui qui traite son cheval par homépathie va interpréter tout signe favorable comme une confirmation que son soin et son approche sont valides.
 
-#### Double aveugle
+## Double aveugle
 
 C’est justement pour lutter contre les biais cognitifs qui interviennent chez les patients comme le personnel soignant les observants que les études les plus rigoureuses utilisent un système de contrôle en double aveugle.
 
@@ -86,13 +86,13 @@ Et c’est précisément quand ces conditions rigoureuses sont utilisées que le
 
 Si l’homéopathie fonctionnait, c’est toute notre compréhension de la chimie et de la médecine qui serait remise en question. Tout comme si la théorie de l’évolution n’était pas vraie, plus rien n’aurait de sens dans le domaine de la biologie.
 
-#### Nos observations ne sont que des anectodes
+## Nos observations ne sont que des anectodes
 
 C’est là une sagesse sceptique qui est parfois difficile à faire sienne. Ce que nous observons est teinté par ce que nous croyons. Ce dont nous nous souvenons avec une grande certitude est une reconstruction, très souvent erronée. Ces biais sont connus depuis longtemps, et les méthodes pour les contrecarrer au mieux sont rôdées.
 
 Quand elles sont appliquées, certaines de nos convictions peuvent se fracasser sur les résultats d’une expérience. Il faut alloir avoir la force de se dire qu’on a eu tort. Que ce qu’on croyait dur comme fer était une illusion. Qu’on a peut être consacré sa vie, sa carrière, à un mirage. Que nos détracteurs avaient raison.
 
-#### Traitement de faveur
+## Traitement de faveur
 
 Ce courage, cette honnêteté intellectuelle, peu de gens l’ont. Les marchands de pseudo-médicaments ne l’ont certainement pas.
 
@@ -110,7 +110,7 @@ Ce traitement de faveur remonte aux années 1940, et s’est élargi au niveau e
 Sans volonté politique forte, l’homéopathie restera ainsi une pratique pseudo-scientifique ayant légalement une charge de preuve d’efficacité inexistante.
 Après tout, quel ministre de la santé voudra faire des vagues là-dessus. Il n’y a aucun danger, n’est-ce pas ?
 
-#### Aucun danger ?
+## Aucun danger ?
 
 Les traitements homéopathiques ne présentent aucun danger, et c’est tout ce qui importe aux yeux de la loi taillée pour eux.
 
