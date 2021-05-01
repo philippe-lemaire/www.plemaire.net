@@ -22,7 +22,7 @@ L’idée est la suivante : plutôt que de reposer sur le duo de choc PHP et MyS
 Pour essayer la chose, j’ai créé un site sur le game design qui me trottait dans la tête depuis un moment : [Game Over Analyzed](http://www.game-over-analyzed.com) avec pelican.
 
 Une fois pelican et ses dépendances installées sur mon PC, il m’a suffit de rédiger mes articles au format [Markdown](http://daringfireball.net/projects/markdown/), en ajoutant en tête des fichiers les informations suivantes pour pelican :
-
+```
     ---
 title: "Titre de notre article"
     Date: 2014-01-02T19:00:00Z
@@ -34,6 +34,7 @@ title: "Titre de notre article"
 
     Debut du contenu.
 
+```
 
 La différence de performance sur un hébergement mutualisé par rapport à un WordPress est indéniable.
 Du coup, j’ai eu envie de basculer ce blog en pelican aussi.
