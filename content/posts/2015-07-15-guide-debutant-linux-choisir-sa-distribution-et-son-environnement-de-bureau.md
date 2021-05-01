@@ -11,7 +11,7 @@ Summary: Un des premiers casse-tête qui attend toute personne qui découvre l�
 
 ## Introduction
 
-Dans mon précédent [guide sur la migration de Windows XP à Linux](http://www.plemaire.net/le-guide-de-migration-de-windows-xp-vers-Linux), j’ai pris le parti de recommander Debian avec Xfce aux débutants. 
+Dans mon précédent [guide sur la migration de Windows XP à Linux](http://www.plemaire.net/posts/le-guide-de-migration-de-windows-xp-vers-Linux), j’ai pris le parti de recommander Debian avec Xfce aux débutants. 
 Même s’il est contraire à la sagesse populaire qui veut qu’Ubuntu soit la distribution de référence pour les débutants, ce choix de Debian peut se justifier, mais ce n’était pas l’objet du guide.
 
 Étudions plus en détail quelques distributions adaptées aux débutants sous Linux, leurs forces, et leurs faiblesses.
