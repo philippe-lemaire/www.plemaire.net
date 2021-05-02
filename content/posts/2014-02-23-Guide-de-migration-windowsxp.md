@@ -7,13 +7,12 @@ Tags:
 - "Linux"
 - "Debian"
 - "Xfce"
+featuredImage: "/img/windowsxp-rip.jpg"
 Slug: le-guide-de-migration-de-windows-xp-vers-Linux
 Summary: Windows XP arrive en fin de vie. Plus aucune mise à jour après juin 2014. Mais ça ne veut pas dire qu’il faut mettre son PC à la benne.
 ---
 
 #### Introduction
-
-![Windows XP en fin de vie](/img/windowsxp-rip.jpg)
 
 Windows XP arrive bientôt en fin de vie. Ce sont des millions de PC qui ne vont plus recevoir aucune mise à jour de sécurité. Ces machines typiquement anciennes ne sont pas aptes à faire tourner Windows 7 ou 8. Trois solutions s’offrent aux utilisateurs concernés :
 
@@ -40,8 +39,8 @@ Certaines distributions ciblent le grand public tandis que d’autres s’adress
 Un autre facteur est la fraicheur des versions de logiciels proposées. Certaines distributions veulent intégrer la nouvelle version de chaque logiciel dès sa sortie, et à l’autre bout de ce spectre certaines distributions préfèrent utiliser des versions plus anciennes, mais davantage testées.
 
 Si vous êtes débutants, et que votre matériel est un peu ancien (processeur autour de 1GHz, 2 Go de RAM par exemple), alors je préconise Debian avec le bureau Xfce.
-Vous pouvez télécharger l’image disque ici : [http://cdimage.debian.org/debian-cd/current-live/i386/iso-hybrid/](http://cdimage.debian.org/debian-cd/current-live/i386/iso-hybrid/).
-Choisissez le fichier Xfce dans la liste.
+Vous pouvez télécharger l’image disque ici : [http://cdimage.debian.org/debian-cd/current-live/](http://cdimage.debian.org/debian-cd/current-live/).
+Choisissez le dossier correspondant à votre type d’architecture (amd64 en général, i386 si vous avez vraiment un ordinateur qui ne supporte que le 32 bit), puis le fichier iso Xfce dans la liste.
 
 Notez bien que cette image contient beaucoup plus qu’un disque d’installation de Windows XP. Vous avez dans ce giga-octet le cœur du système plus un ensemble de logiciels : navigateur Firefox (renommé IceWeasel pour des raisons de droits), visionneur d’images, de PDF, suite bureautique, lecteur de musique et de vidéo. De plus, ajouter des logiciels complémentaires est rapide, sécurisé et gratuit.
 
