@@ -11,6 +11,7 @@ Tags:
 - "Web comics"
 Slug: en-vrac-janvier-2014
 Summary: Liens intéressants janvier 2014
+toc: false
 ---
 
 

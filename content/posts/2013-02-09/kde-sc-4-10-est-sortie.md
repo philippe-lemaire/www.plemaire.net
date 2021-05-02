@@ -11,7 +11,7 @@ Summary: Impressions et screenshots de la version 4.10 de KDE SC
 ---
 
 
-#### Quoi de neuf dans KDE 4.10 ?
+## Quoi de neuf dans KDE 4.10 ?
 À intervalles réguliers, les joyeux drilles derrière <a title="KDE SC" href="http://www.kde.org">KDE SC</a> sortent une <a title="L’annonce sur dot.kde.org" href="http://dot.kde.org/2013/02/06/410-release-plasma-workspaces-applications-and-development-platform">nouvelle version</a> de leur environnement de bureau libre, et comme à chaque fois, je suis pris d’une envie irrépressible de faire du <a title="Relevant xkcd" href="http://xkcd.com/456/">distro-hopping</a>.
 
 Hier soir, j’ai remplacé ma brave <a title="CrunchBang" href="http://crunchbang.org/about">CrunchBang Waldorf</a>, excellente distribution par ailleurs, par <a title="Le site de Kubuntu" href="http://www.kubuntu.org">Kubuntu</a> 12.10. Au premier reboot, j’ai ajouté le ppa kubuntu backports qui apporte les derniers paquets KDE. Un **sudo apt-get update &amp;&amp; sudo apt-get dist-upgrade** plus tard, KDE 4.10 était installé et fonctionnel.
@@ -29,7 +29,7 @@ Mais sous le capot, les améliorations de la structure qui fait tourner toutes c
 Allez un petit screenshot de ma config :
 ![Screenshot](/img/capture.png)
 
-#### Non mais qu’est-ce que c’est que ce binz ?!
+## Non mais qu’est-ce que c’est que ce binz ?!
 Ces derniers mois, le bureau linux a connu énorméments de changements :
 
 * GNOME a jeté à la poubelle le modèle traditionnel de bureau qu’utilisait GNOME 2, pour partir dans une direction très différente avec <a title="GNOME 3" href="http://www.gnome.org/gnome-3/">GNOME 3</a>
