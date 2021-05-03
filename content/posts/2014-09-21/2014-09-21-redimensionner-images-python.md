@@ -2,7 +2,7 @@
 title: "Redimensionner des images en masse avec Python"
 Date: 2014-09-21T08:00:00Z
 categories: 
-- "Logiciels libres"
+- "Python"
 Tags: 
 - "Python"
 Slug: redimensionner-des-images-en-masse-avec-python
