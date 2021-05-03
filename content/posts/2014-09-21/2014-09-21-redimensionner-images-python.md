@@ -7,6 +7,7 @@ Tags:
 - "Python"
 Slug: redimensionner-des-images-en-masse-avec-python
 Summary: Longtemps j'ai installé Shotwell juste pour faire ça…
+toc: false
 ---
 
 #### Contexte
