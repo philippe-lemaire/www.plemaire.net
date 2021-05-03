@@ -7,6 +7,7 @@ Tags:
 - "Nintendo"
 Slug: gaming-fatigue
 Summary: Petit passage à vide dans ma vie de joueur
+toc: false
 ---
 
 En cette rentrée 2014, j’ai été pris d’une espèce de micro-dépression vidéo-ludique, que les anglo-saxons appellent "gaming fatigue".
