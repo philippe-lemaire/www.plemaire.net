@@ -1,0 +1,162 @@
+baseURL = "https://www.plemaire.net/"
+defaultContentLanguage = "fr"
+languageCode = "fr-fr"
+title = "A boy and his blog"
+author = "Philippe Lemaire"
+description = "Tech, théorie du genre, et gauchisme contrarié…"
+
+theme = "uBlogger"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "fr"
+
+Paginate = 10
+
+enableRobotsTXT = true
+#
+sectionPagesMenu = "main"
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+
+[params]
+  favicon = "/img/favicon.png"
+  site_logo = ""
+  version = "2.0.X"
+  dateFormat = "02-01-2006"
+  rss = "/index.xml"
+
+  # Header config
+  [params.header]
+    # desktop header mode ("fixed", "normal", "auto")
+    desktopMode = "fixed"
+    # mobile header mode ("fixed", "normal", "auto")
+    mobileMode = "auto"
+    # uBlogger NEW | 0.2.0 Header title config
+    [params.header.title]
+      # URL of the LOGO
+      logo = ""
+      # title name
+      name = "A boy and his blog"
+      # you can add extra information before the name (HTML format is supported), such as icons
+      pre = ""
+      # you can add extra information after the name (HTML format is supported), such as icons
+      post = ""
+
+  # Footer config
+  [params.footer]
+    enable = true
+    # uBlogger NEW | 0.2.0 Custom content (HTML format is supported)
+    custom = ''
+    # uBlogger NEW | 0.2.0 whether to show Hugo and theme info
+    hugo = true
+    # uBlogger NEW | 0.2.0 whether to show copyright info
+    copyright = true
+    # uBlogger NEW | 0.2.0 whether to show the author
+    author = true
+    # Site creation time
+    since = 2014
+    # ICP info only in China (HTML format is supported)
+    # license info (HTML format is supported)
+    license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+
+  # uBlogger NEW | 0.2.0 Section (all posts) page config
+  [params.section]
+    # special amount of posts in each section page
+    paginate = 20
+    # date format (month and day)
+    dateFormat = "02-01"
+    # amount of RSS pages
+    rss = 10
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = "📰"
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Articles"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    pre = "🏷️"
+    post = ""
+    name = "Balises"
+    url = "/tags/"
+    title = ""
+    weight = 2
+  [[menu.main]]
+    identifier = "categories"
+    pre = "🚩"
+    post = ""
+    name = "Catégories"
+    url = "/categories/"
+    title = ""
+    weight = 3
+  [[menu.main]]
+    identifier = "a-propos"
+    pre = "👨"
+    name = "À propos"
+    url = "/a-propos/"
+
+# Markup related configuration in Hugo
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration
+    noClasses = false
+
+    # Menu config
+    
+    
+      # Home page config
+      [languages.fr.params.home]
+        # amount of RSS pages
+        rss = 10
+        # Home page profile
+        [languages.fr.params.home.profile]
+          enable = true
+          # Gravatar Email for preferred avatar in home page
+          #gravatarEmail = "philippe.lemaire@protonmail.com"
+          # URL of avatar shown in home page
+          avatarURL = "/img/avatar.png"
+          # title shown in home page (HTML format is supported)
+          title = "Philippe Lemaire | Data scientist"
+          # subtitle shown in home page (HTML format is supported)
+          subtitle = "Python + Maths = ❤️"
+          # whether to show social links
+          social = true
+          # disclaimer (HTML format is supported)
+          disclaimer = "À ma connaissance, ce site n’utilise pas de cookie…"
+        # Home page posts
+        [languages.fr.params.home.posts]
+          enable = true
+          # special amount of posts in each home posts page
+          paginate = 6
+      # Social config in home page
+      [languages.fr.params.social]
+        GitHub = "philippe-lemaire"
+        Linkedin = "philippe-lemaire-8766a63/"
+        Twitter = "friendly_gm"
+        #Instagram = "xxxx"
+        #Facebook = "xxxx"
+        Telegram = "@plemaire"
+        #Medium = ""
+        #Gitlab = ""
+        #Bitbucket = ""
+        #Stackoverflow = ""
+        Spotify = "philproton"
+        Email = "philippe.lemaire@pm.me"
+        RSS = true
+        [languages.fr.params.social.Mastodon]
+          id = "@filipo"
+          prefix = "https://esperanto.masto.host/"
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
