@@ -1,8 +1,8 @@
-baseurl: https://example.com/
+baseurl: https://www.plemaire.net/
 languageCode: fr-fr
 theme: hugo-theme-stack
-title: Example Site
-copyright: Example Person
+title: A Boy and his Blog
+copyright: Philippe Lemaire
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -16,11 +16,15 @@ languages:
     fr:
         languageName: Français
         title: A Boy and his Blog
-        weight: 0
+        weight: 1
         params:
           sidebar:
+            emoji: 📜
             subtitle: Élucubrations d’un Luddiste des temps modernes
-
+            avatar:
+                enabled: true
+                local: false
+                src: /img/avatar.png
 
 
 
@@ -43,8 +47,8 @@ params:
         customText:
 
     dateFormat:
-        published: Jan 02, 2006
-        lastUpdated: Jan 02, 2006 15:04 MST
+        published: 02 January, 2006
+        lastUpdated: 02 January, 2006 15:04 MST
 
     sidebar:
         emoji: 🍥
@@ -63,92 +67,12 @@ params:
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: true
-        provider: disqus
+        enabled: false
 
-        disqusjs:
-            shortname:
-            apiUrl:
-            apiKey:
-            admin:
-            adminLabel:
 
-        utterances:
-            repo:
-            issueTerm: pathname
-            label:
 
-        beaudar:
-            repo:
-            issueTerm: pathname
-            label:
-            theme:
-
-        remark42:
-            host:
-            site:
-            locale:
-
-        vssue:
-            platform:
-            owner:
-            repo:
-            clientId:
-            clientSecret:
-            autoCreateIssue: false
-
-        # Waline client configuration see: https://waline.js.org/en/reference/component.html
-        waline:
-            serverURL:
-            lang:
-            pageview:
-            emoji:
-                - https://unpkg.com/@waline/emojis@1.0.1/weibo
-            requiredMeta:
-                - name
-                - email
-                - url
-            locale:
-                admin: Admin
-                placeholder:
-
-        twikoo:
-            envId:
-            region:
-            path:
-            lang:
-
-        # See https://cactus.chat/docs/reference/web-client/#configuration for description of the various options
-        cactus:
-            defaultHomeserverUrl: "https://matrix.cactus.chat:8448"
-            serverName: "cactus.chat"
-            siteName: "" # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
-
-        giscus:
-            repo:
-            repoID:
-            category:
-            categoryID:
-            mapping:
-            lightTheme:
-            darkTheme:
-            reactionsEnabled: 1
-            emitMetadata: 0
-
-        gitalk:
-            owner:
-            admin:
-            repo:
-            clientID:
-            clientSecret:
-            proxy:
-
-        cusdis:
-            host:
-            id:
     widgets:
         homepage:
-            - type: search
             - type: archives
               params:
                   limit: 5
@@ -161,13 +85,7 @@ params:
         page:
             - type: toc
 
-    opengraph:
-        twitter:
-            # Your Twitter username
-            site:
 
-            # Available values: summary, summary_large_image
-            card: summary_large_image
 
     defaultImage:
         opengraph:
@@ -197,15 +115,10 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/philippe-lemaire
           params:
               icon: brand-github
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
-          params:
-              icon: brand-twitter
 
 related:
     includeNewer: true
