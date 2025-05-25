@@ -1,0 +1,43 @@
+baseURL = 'https://www.plemaire.net/'
+languageCode = 'fr-fr'
+title = 'A Boy and His Blog'
+theme = "PaperMod"
+
+DefaultContentLanguage = "fr"
+SectionPagesMenu = "main"
+# this is set low for demonstrating with dummy content. Set to a higher number
+enableRobotsTXT = true
+
+
+
+ignoreLogs = ['warning-goldmark-raw-html']
+
+[params]
+  env= "production" # to enable google analytics, opengraph, twitter-cards and schema.
+  description= "TODO"
+  author= "Philippe Lemaire"
+  # author= ["Me", "You"] # multiple authors
+
+  defaultTheme= "auto"
+  # disableThemeToggle= true
+  ShowShareButtons= true
+  ShowReadingTime= true
+  # disableSpecial1stPost= true
+  displayFullLangName= true
+  ShowPostNavLinks= true
+  ShowBreadCrumbs= true
+  ShowCodeCopyButtons= true
+  ShowRssButtonInSectionTermList= true
+  ShowAllPagesInArchive= true
+  ShowPageNums= true
+  ShowToc= true
+  # comments= false
+  images= ["images/papermod-cover.png"]
+
+  [params.profileMode]
+    enabled= false
+    title= "A Boy and his Blog"
+    imageUrl= "#"
+    imageTitle= "my image"
+    # imageWidth= 120
+    # imageHeight= 120
