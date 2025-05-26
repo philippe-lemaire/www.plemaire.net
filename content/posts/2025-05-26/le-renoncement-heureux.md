@@ -18,10 +18,8 @@ rssFullText: true
 hiddenFromHomePage: false
 hiddenFromSearch: false
 
-toc:
-  enable: false
-math:
-  enable: false
+toc: false
+math: false
 ---
 
 Prendre de bonnes résolutions en début d’année est un grand classique, mais il est plus rare de persister après quelques semaines voire quelques jours
@@ -97,7 +95,7 @@ Dès que j’ai une activité basse tension de plus de 3 minutes devant moi :
 - passer l’aspirateur
 - prendre mon café
 
-hop, YouTube, dans un navigateur avec u-block, histoire de ne pas avoir de pub (à part les segments sponsorisés qui sont devenus très nombreux). 
+hop, YouTube, dans un navigateur avec u-block, histoire de ne pas avoir de pub (à part les segments sponsorisés qui sont devenus très nombreux).
 Ne pas le faire est inenvisageable, une espèce de torture mentale.
 
 J’ai à plusieurs reprises installé une extension de navigateur pour me bloquer l’accès à YouTube mais à chaque fois je craque et je la retire.
@@ -112,7 +110,7 @@ pour mon équilibre, mais j’y perdrais sûrement tous les sujets de niche qui 
 ### One last thing
 
 Il y a une autre forme de plaisir solitaire à laquelle j’ai renoncé totalement, mais c’est trop personnel pour évoquer la chose, ses raisons, et les conséquences
-positives ici. Je l’évoque juste pour mon futur lecteur, moi-même dans plusieurs années, il se souviendra sans doute. 
+positives ici. Je l’évoque juste pour mon futur lecteur, moi-même dans plusieurs années, il se souviendra sans doute.
 
 ## Conclusion
 

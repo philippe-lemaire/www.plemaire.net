@@ -18,8 +18,6 @@ rssFullText: true
 hiddenFromHomePage: false
 hiddenFromSearch: false
 
-toc:
-  enable: true
-math:
-  enable: false
+toc: false
+math: false
 ---
