@@ -8,6 +8,8 @@ Tags:
 - "CMS"
 Slug: migration-du-site-sous-pelican
 Summary: Pourquoi je suis passé de [WordPress](http://wordpress.org) à [Pelican](http://blog.getpelican.com/) pour propulser ce blog.
+toc: false
+math: false
 ---
 
 
