@@ -29,7 +29,7 @@ languages:
 
 
 pagination:
-    pagerSize: 3
+    pagerSize: 8
 
 permalinks:
     posts: /:year/:month/:slug/
