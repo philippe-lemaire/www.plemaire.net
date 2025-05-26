@@ -21,10 +21,8 @@ hiddenFromSearch: false
 
 
 
-toc:
-  enable: true
-math:
-  enable: false
+toc: true
+math: false
 ---
 
 J’ai délaissé ce blog pendant des années. L’unique lecteur et l’auteur étant la même personne, il n’y a pas eu de victime.

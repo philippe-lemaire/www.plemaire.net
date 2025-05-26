@@ -28,10 +28,8 @@ resources:
 featuredImagePreview: ""
 images: [""]
 
-toc:
-  enable: false
-math:
-  enable: false
+toc: false
+math: false
 ---
 
 Dans une semaine très précisemment, je vais démarrer le [boot camp Data Science du Wagon](https://www.lewagon.com/fr/data-science-course/full-time), et j’ai vraiment hâte de me plonger dedans.
@@ -45,5 +43,3 @@ Aujourd’hui j’ai reçu de bonnes nouvelles sur le front financier, aussi je 
 Le premier bouquin est de Wes McKinney, le créateur de [Pandas](https://pandas.pydata.org/), le second d’Andreas Müller et Sarah Guido, respectivement enseignant chercheur et data scientist.
 
 Je vais potasser tout ça cette semaine, et j’y reviendrai probablement pendant ma formation. Qui sait, je rédigerai peut-être même des fiches de lecture…
-
-

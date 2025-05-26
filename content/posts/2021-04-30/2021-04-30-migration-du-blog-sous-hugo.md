@@ -23,19 +23,19 @@ hiddenFromSearch: false
 
 featuredImage: "/img/hugo-featured.png"
 
-toc:
-  enable: true
+toc: false
+math: false
 ---
 
 ## Introduction
 
-La plupart des outils de gestion de contenus en ligne (CMS) utilisent un language de scripting comme Php et une base de données pour permettre la création et l’édition de contenus par l’utilisateur directement dans son navigateur. J’ai longtemps utilisé WordPress pour ça, et les premiers articles de ce blog ont été rédigés dans ce système, avant une première migration vers un outil de blog statique appelé [Pelican](https://blog.getpelican.com/) 
+La plupart des outils de gestion de contenus en ligne (CMS) utilisent un language de scripting comme Php et une base de données pour permettre la création et l’édition de contenus par l’utilisateur directement dans son navigateur. J’ai longtemps utilisé WordPress pour ça, et les premiers articles de ce blog ont été rédigés dans ce système, avant une première migration vers un outil de blog statique appelé [Pelican](https://blog.getpelican.com/)
 
-Le côté pratique des CMS est évident, mais il vient avec un prix : l’utilisation d’une base de données pour accéder au contenu et reconstruire les pages demandées par les visiteurs à la volée, ça prend du temps au serveur, et sur la plupart des sites, même des publications professionnelles, ça prend une petite seconde ou deux d’afficher une page, et parfois bien plus. 
+Le côté pratique des CMS est évident, mais il vient avec un prix : l’utilisation d’une base de données pour accéder au contenu et reconstruire les pages demandées par les visiteurs à la volée, ça prend du temps au serveur, et sur la plupart des sites, même des publications professionnelles, ça prend une petite seconde ou deux d’afficher une page, et parfois bien plus.
 
 Les outils de blog statiques permettent de créer des sites contenant toutes les pages nécessaires d’un blog (index, articles, listes par catégories, par étiquettes, par date) en quelques millisecondes, et le bénéfice est un travail beaucoup plus simple côté serveur puisqu’il n’y a pas de base de données à consulter ni de pages à générer à la volée, juste des fichiers html, css et images à servir.
 
-Initialement, j’avais utilisé Pelican donc pour faire une première migration depuis WordPress. 
+Initialement, j’avais utilisé Pelican donc pour faire une première migration depuis WordPress.
 Aujourd’hui, il est assez apparent que Pelican, s’il est plus simple, offre beaucoup moins de fonctionnalités et a une communauté de développeurs beaucoup moins active, aussi j’ai décidé d’utiliser le framework de site statique qui me semble le plus actif et le plus populaire, [Hugo](https://gohugo.io/).
 
 ## Comment utiliser Hugo pour créer un site
@@ -61,9 +61,9 @@ J’ai pris le parti de ne pas remettre d’outil de commentaire comme disqus, q
 
 Je n’ai pas non plus installé d’outil de tracking des visites comme Google Analytics, sans intérêt pour un site perso à mon humble avis. Souriez, vous n’êtes pas pistés, et vous n’avez pas besoin d’accepter l’utilisation des cookies, il n’y en a pas !
 
-## Le mode de publication plus en détail 
+## Le mode de publication plus en détail
 
-### Première étape : créer le fichier d’un nouvel article 
+### Première étape : créer le fichier d’un nouvel article
 
 En local, dans le répertoire principal du site :
 
@@ -79,7 +79,7 @@ Vous pouvez utiliser votre éditeur de texte préféré pour rédiger votre cont
 
 ### Étape optionnelle : vérifier le rendu en local
 
-Un petit `hugo serve` dans le dossier principal du site en local crée une version temporaire consultable en local du site, ce qui permet de vérifier que tout s’affiche correctement avant de pousser le nouveau contenu vers le serveur. 
+Un petit `hugo serve` dans le dossier principal du site en local crée une version temporaire consultable en local du site, ce qui permet de vérifier que tout s’affiche correctement avant de pousser le nouveau contenu vers le serveur.
 
 ### Troisième étape
 
