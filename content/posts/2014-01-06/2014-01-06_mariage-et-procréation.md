@@ -1,14 +1,16 @@
 ---
 title: "Interdisons le mariage aux couples stériles !"
 Date: 2014-01-06T16:00:00Z
-categories: 
+categories:
 - "Société"
-Tags: 
+Tags:
 - "Manif pour tous"
 - "mariage pour tous"
 - "homophobie"
 Slug: interdisons-le-mariage-aux-couples-steriles
 Summary: À Fontgombault, dans l’Indre, le conseil municipal refuse de marier deux personnes du même sexe pour des motifs douteux.
+toc: false
+math: false
 ---
 
 
@@ -21,7 +23,7 @@ Lors d’une délibération du 24 octobre 2013, le conseil municipal a signé so
 
 >il existe une loi naturelle, supérieure aux lois humaines
 
-et car 
+et car
 
 > ces personnes [les homosexuels], quelle que soit leur dignité d’êtres humains, qu’il y a lieu de reconnaître par ailleurs, sont radicalement incapables de procréer un être humain qui soit issu de cette union
 
@@ -31,7 +33,7 @@ La justice est saisie, mais j’aimerais simplement commenter l’absurdité des
 
 #### La loi naturelle, supérieure aux lois humaines
 
-Jacques Tissier a des connaissances assez limités en biologie.  
+Jacques Tissier a des connaissances assez limités en biologie.
 Les rapports sexuels entre individus du même sexe sont [partout dans la nature](http://fr.wikipedia.org/wiki/Sexualit%C3%A9_animale#Homosexualit.C3.A9_et_bisexualit.C3.A9_animales).
 
 En revanche, une autre loi naturelle, c’est que les individus malades ont tendance à décéder très vite. J’ose espérer qu’il ne s’offusque pas de l’intrusion de la médecine moderne dans les affaires de la Nature.
@@ -42,14 +44,14 @@ Mais peut-être que M. Tissier veut opposer les lois humaines aux lois divines, 
 
 #### Pas de procréation, pas de mariage
 
-Dans cette logique, les couples devraient passer un test de fertilité pour pouvoir se marier.  
+Dans cette logique, les couples devraient passer un test de fertilité pour pouvoir se marier.
 Et mesdames, pas la peine de penser à se remarier passée la ménopause.
 
 
 #### Conclusion
 
-Mal joué, l’homophobie à peine voilée, ça ne passe plus.  
+Mal joué, l’homophobie à peine voilée, ça ne passe plus.
 On verra ce que le tribunal administratif aura à redire à l’argumentation de M. Tissier.
 
-En attendant, il aurait pu consacrer quelques minutes de son temps à chercher des arguments plus solides.  
+En attendant, il aurait pu consacrer quelques minutes de son temps à chercher des arguments plus solides.
 Mais pas la peine de regarder du côté des [arguments de la manif pour tous](https://www.plemaire.net/du-bruit-et-du-fond-les-arguments-des-manif-pour-tous-premiere-partie).

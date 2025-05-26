@@ -1,15 +1,17 @@
 ---
 title: "Comment avoir un menu global dans KDE"
 Date: 2014-01-09T10:30:00Z
-categories: 
+categories:
 - "Logiciels libres"
-Tags: 
+Tags:
 - "KDE"
 - "Linux"
 - "Logiciel libre"
 - "Arch Linux"
 Slug: comment-avoir-un-menu-global-dans-kde
 Summary: Une menu global à la Mac OSX ou Unity avec KDE, c’est possible !
+toc: false
+math: false
 ---
 
 
@@ -44,7 +46,7 @@ Dans les dépôts principaux :
 
     sudo apt-get install appmenu plasma-widget-menubar
 
-## Comment configurer ses widgets et son thème ? 
+## Comment configurer ses widgets et son thème ?
 Vous avez deux choses à faire :
 
 1. Insérer le widget appmenu dans votre tableau de bord
@@ -72,9 +74,8 @@ Quelque soit votre distribution, vous allez devoir insérer cette ligne à la fi
 Déconnectez-vous de votre session et reconnectez vous.
 
 ## Et voilà le travail :
-Une application gtk2 : Chromium.  
+Une application gtk2 : Chromium.
 ![Chromium avec menu global sous KDE](/img/kde-appmenu-gtk2.png)
 
-Une application gtk3 : GIMP.  
+Une application gtk3 : GIMP.
 ![GIMP avec menu global sous KDE](/img/kde-appmenu-gtk3.png)
-

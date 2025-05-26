@@ -1,13 +1,15 @@
 ---
 title: "Le Pape François ou la fausse ouverture"
 Date: 2014-01-15T08:00:00Z
-categories: 
+categories:
 - "Société"
-Tags: 
+Tags:
 - "Avortement"
 - "homophobie"
 Slug: le-pape-francois-ou-la-fausse-ouverture
 Summary: Discussion sur le Pape François, les gays, et l’avortement
+toc: false
+math: false
 ---
 
 
@@ -43,7 +45,7 @@ Plutôt facile, non ? Il ne sera jamais confronté à une grossesse non désiré
 
 Et quid des enfants qui ne pourront pas voir la lumière parce que leurs parents ne se sont jamais rencontrés, ou bien utilisent des moyens de contraceptions ? N’est-ce pas là une horreur incommensurable ? Bien sûr que non…
 
-Car la question n’est pas là. La condamnation de l’avortement est une question de contrôle des femmes. 
+Car la question n’est pas là. La condamnation de l’avortement est une question de contrôle des femmes.
 Qu’elles aient une sexualité et procréation qui rentre dans le rang, ou souffrent des conséquences.
 
 
