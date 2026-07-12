@@ -5,7 +5,7 @@ categories: ["Société"]
 Tags:
 - "Racisme"
 - "Antisémitisme"
-- "Théorie du complot "
+- "Théorie du complot"
 Slug: mon-gamin-fait-des-quenelles-que-faire
 Summary: Discussion sur la sensibilisation des adolescents sur la portée du geste.
 toc: true

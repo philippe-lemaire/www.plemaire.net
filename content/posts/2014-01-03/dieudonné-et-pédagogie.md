@@ -33,13 +33,13 @@ Qu’est-ce que vous venez de voir, et que peut-on y faire ?
 Premièrement, commençons par les évidences.
 Oui, le discours de Dieudonné est antisémite et complotiste. Je ne sais pas si les vues personnelles de Dieudonné le sont, mais les idées exprimées sont de l’antisémisme grossièrement voilé.
 
-C’est totalement évident pour qui l’écoute 5 minutes, mais pour des adolescents, c’est loin d’être si simple
+C’est totalement évident pour qui l’écoute 5 minutes, mais pour des adolescents, c’est loin d’être si simple.
 
 #### Premier exemple
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/0r4YQ54PazA"  allowfullscreen></iframe>
 
-Quelques citations tirées de cette vidéo (sur une autre chaîne que la chaîne principale)
+Quelques citations tirées de cette vidéo (sur une autre chaîne que la chaîne principale) :
 
 > [S’adressant à Arno Klarsfeld] On peut parler de chambres à gaz[…] Je ne suis pas sûr d’être très précis là dessus [sourire en coin]. Ya Robert autrement, Robert Faurisson, si tu veux, lui je peux lui demander de te donner son contact.
 
