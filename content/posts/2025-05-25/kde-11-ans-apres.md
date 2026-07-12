@@ -59,8 +59,7 @@ l’utiliser, et se fond dans le décor quand on est actif sur une tâche, et l�
 ### Présentation des bureaux
 
 Ensuite, j’ai remarqué une grande amélioration dans la vue qui présente les fenêtres ouvertes sur les
-différents espace de travail ou bureaux. Avant c’était très foutraque et jamais aligné, désormais c’est beaucoup plus propre et harmonieux. Si vous avez le réflexe, dressé comme je le fus par GNOME d’envoyer le curseur de la souri dans le coin en haut à gauche pour voir vos fenêtres ouvertes et changer de tâche à la souris, c’est beaucoup plus imaginable de continuer dans Plasma 6 que ça ne l’était dans les itérations
-précédentes.
+différents espace de travail ou bureaux. Avant c’était très foutraque et jamais aligné, désormais c’est beaucoup plus propre et harmonieux. Si vous avez le réflexe, dressé comme je le fus par GNOME d’envoyer le curseur de la souris dans le coin en haut à gauche pour voir vos fenêtres ouvertes et changer de tâche à la souris, c’est beaucoup plus imaginable de continuer dans Plasma 6 que ça ne l’était dans les itérations précédentes.
 
 
 ![Présentation des bureaux](/img/kde-2025/presentation.png)
